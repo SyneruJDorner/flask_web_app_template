@@ -1,0 +1,4 @@
+__pycache__
+app/static/profile_pics/*.jpg
+!app/static/profile_pics/default.jpg
+app/secret_info/secret_info.json
